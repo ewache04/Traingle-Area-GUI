@@ -1,0 +1,23 @@
+# Triangle Information GUI
+
+## Overview
+This program allows the user to create a triangle by clicking three points on the screen.
+After creating the triangle, the program calculates and displays the area of the triangle.
+
+## How to Use
+1. Run the program.
+2. Click three points on the screen to form a triangle.
+3. The program will display the area of the triangle.
+4. Close the window by clicking anywhere after viewing the result.
+
+## Author
+Jeremiah E. Ochepo
+
+## Last Edited
+3/1/2020 (10PM)
+
+## Notes
+- The program uses the `graphics` module for graphical interface.
+- Make sure to run the code in an environment that supports graphical windows.
+
+Enjoy exploring triangles with Triangle Information GUI!
